@@ -1,6 +1,6 @@
 # GitHub Actions Pipeline Demo
 
-- نام و نام خانوادگی: [آیدا آقاخانی]
+- نام و نام خانوادگی: آیدا آقاخانی
 - عنوان ارائه: ساخت Pipeline با GitHub Actions شامل build، test و lint
 
 ## توضیح
